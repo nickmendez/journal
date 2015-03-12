@@ -107,10 +107,11 @@ main {
 
 section {
   width: 70%;
+  padding: 5%;
 }
 
 header {
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 
