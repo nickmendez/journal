@@ -114,7 +114,9 @@ header {
   padding-left: 20px;
 }
 
-
+menu {
+  float: right;
+}
 
 
 
