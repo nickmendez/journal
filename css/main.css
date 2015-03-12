@@ -95,11 +95,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+nav {
+  float: left;
+  width: 30%
+}
 
+main {
+  float: left;
+}
 
-
-
-
+section {
+  width: 70%
+}
 
 
 
