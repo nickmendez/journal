@@ -95,30 +95,29 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-nav {
-  float: left;
-  width: 30%
-}
+   .menu {
+     float: right;
+     padding-right: 20px;
+   }
 
-main {
-  float: left;
-  padding: 5%;
-}
+   header {
+     padding-left: 20px;
+   }
 
-section {
-  width: 70%;
-  padding: 5%;
-}
+   nav {
+     float: left;
+     width: 30%
+   }
 
-header {
-  padding-left: 20px;
-}
+   main {
+     float: left;
+     padding: 5%;
+   }
 
-.menu {
-  float: right;
-}
-
-
+   section {
+     width: 70%;
+     padding: 5%;
+   }
 
 
 
